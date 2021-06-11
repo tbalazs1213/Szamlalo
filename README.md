@@ -1,2 +1,2 @@
 # Szamlalo
-A program szamolja, hogy hanyszor lett megnyitva.
+A program szamolja, hogy hanyszor lett futtatva.
